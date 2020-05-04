@@ -26,7 +26,7 @@
 
 
 
-- ###[整体架构](zh/General_Architecture/README.md)
+- ### [整体架构](zh/General_Architecture/README.md)
   - [跨平台开发的约定与模式](zh/General_Architecture/Conventions_and_patterns_for_multi-platform_development.md)
   - [扩展安全架构](zh/General_Architecture/Extension_Security_Architecture.md): 扩展系统是如何降低扩展脆弱性的严重程度的
   - [硬件视频加速](zh/General_Architecture/HW_Video_Acceleration_in_Chrom{eium}{OS}.md)
